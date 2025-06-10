@@ -21,3 +21,4 @@ This project builds a recommendation system using collaborative filtering to sug
 ATHIRA ARUN
 
 # OUTPUT
+![Image](https://github.com/user-attachments/assets/232a6166-b7e7-4b03-a280-fa0b2f22f461)
