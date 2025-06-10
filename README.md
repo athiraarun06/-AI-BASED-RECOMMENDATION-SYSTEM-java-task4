@@ -1,5 +1,11 @@
 #  AI-BASED-RECOMMENDATION-SYSTEM-java-task4
-Java Programming task-4, AI Based Recommendation system, CodTech solutions Internship COMPANY: CODTECH IT SOLUTIONS NAME: ATHIRA ARUN INTERN ID: CT04DG364 DOMAIN: JAVA PROGRAMMING DURATION: 4 WEEKS MENTOR: NEELA SANTHOSH
+Java Programming task-4, AI Based Recommendation system, CodTech solutions 
+*Internship COMPANY*: CODTECH IT SOLUTIONS 
+*NAME*: ATHIRA ARUN 
+*INTERN ID*: CT04DG364 
+*DOMAIN*: JAVA PROGRAMMING 
+*DURATION*: 4 WEEKS 
+*MENTOR*: NEELA SANTHOSH
 
 ## Description
 This project builds a recommendation system using collaborative filtering to suggest products based on user preferences using Apache Mahout.
